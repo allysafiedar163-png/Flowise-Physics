@@ -42,7 +42,7 @@ Download and Install [NodeJS](https://nodejs.org/en/download) >= 18.15.0
     ```bash
     npm install -g flowise
     ```
-2. Start Flowise
+2. Start sFlowise
 
     ```bash
     npx flowise start
